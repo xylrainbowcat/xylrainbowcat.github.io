@@ -7,6 +7,28 @@
     "home_page_url": "https://xylrainbowcat.github.io",
     "items": [
         {
+            "id": "https://xylrainbowcat.github.io/Project/Student-Information-Management-System/Student-Information-Management-System/",
+            "url": "https://xylrainbowcat.github.io/Project/Student-Information-Management-System/Student-Information-Management-System/",
+            "title": "学生信息管理系统",
+            "date_published": "2022-10-09T13:34:13.219Z",
+            "content_html": "<h2 id=\"学生信息管理系统\"><a class=\"anchor\" href=\"#学生信息管理系统\">#</a> 学生信息管理系统</h2>\n",
+            "tags": [
+                "计软实习项目",
+                "学生信息管理系统"
+            ]
+        },
+        {
+            "id": "https://xylrainbowcat.github.io/Project/Maze/Maze/",
+            "url": "https://xylrainbowcat.github.io/Project/Maze/Maze/",
+            "title": "迷宫",
+            "date_published": "2022-10-09T13:33:59.979Z",
+            "content_html": "<h2 id=\"迷宫\"><a class=\"anchor\" href=\"#迷宫\">#</a> 迷宫</h2>\n",
+            "tags": [
+                "计软实习项目",
+                "迷宫"
+            ]
+        },
+        {
             "id": "https://xylrainbowcat.github.io/Project/Snake-gluttony/Snake-gluttony/",
             "url": "https://xylrainbowcat.github.io/Project/Snake-gluttony/Snake-gluttony/",
             "title": "贪吃蛇",
@@ -22,7 +44,7 @@
             "url": "https://xylrainbowcat.github.io/Project/Calculator/Calculator/",
             "title": "计算器",
             "date_published": "2022-10-09T09:24:11.269Z",
-            "content_html": "<h2 id=\"计算器\"><a class=\"anchor\" href=\"#计算器\">#</a> 计算器</h2>\n<figure class=\"highlight cpp\"><figcaption data-lang=\"C++\"><span>计算器</span><a href=\"https://xylrainbowcat.github.io/\">参考链接</a></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token macro property\"><span class=\"token directive-hash\">#</span><span class=\"token directive keyword\">include</span> <span class=\"token string\">&lt;bits/stdc++.h></span></span></pre></td></tr><tr><td data-num=\"2\"></td><td><pre><span class=\"token keyword\">using</span> <span class=\"token keyword\">namespace</span> std<span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"3\"></td><td><pre></pre></td></tr><tr><td data-num=\"4\"></td><td><pre><span class=\"token keyword\">int</span> <span class=\"token function\">main</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span> <span class=\"token punctuation\">&#123;</span></pre></td></tr><tr><td data-num=\"5\"></td><td><pre>    cout <span class=\"token operator\">&lt;&lt;</span> <span class=\"token number\">1</span> <span class=\"token operator\">&lt;&lt;</span> endl<span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"6\"></td><td><pre>    <span class=\"token keyword\">return</span> <span class=\"token number\">0</span><span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"7\"></td><td><pre><span class=\"token punctuation\">&#125;</span></pre></td></tr></table></figure><figure class=\"highlight cpp\"><figcaption data-lang=\"C++\"><span>计算器</span></figcaption><table><tr class=\"marked\"><td data-num=\"1\"></td><td><pre><span class=\"token macro property\"><span class=\"token directive-hash\">#</span><span class=\"token directive keyword\">include</span> <span class=\"token string\">&lt;bits/stdc++.h></span></span></pre></td></tr><tr><td data-num=\"2\"></td><td><pre><span class=\"token keyword\">using</span> <span class=\"token keyword\">namespace</span> std<span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"3\"></td><td><pre></pre></td></tr><tr class=\"marked\"><td data-num=\"4\"></td><td><pre><span class=\"token keyword\">int</span> <span class=\"token function\">main</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span> <span class=\"token punctuation\">&#123;</span></pre></td></tr><tr class=\"marked\"><td data-num=\"5\"></td><td><pre>    cout <span class=\"token operator\">&lt;&lt;</span> <span class=\"token number\">1</span> <span class=\"token operator\">&lt;&lt;</span> endl<span class=\"token punctuation\">;</span></pre></td></tr><tr class=\"marked\"><td data-num=\"6\"></td><td><pre>    <span class=\"token keyword\">return</span> <span class=\"token number\">0</span><span class=\"token punctuation\">;</span></pre></td></tr><tr class=\"marked\"><td data-num=\"7\"></td><td><pre><span class=\"token punctuation\">&#125;</span></pre></td></tr></table></figure>",
+            "content_html": "<h2 id=\"计算器\"><a class=\"anchor\" href=\"#计算器\">#</a> 计算器</h2>\n<figure class=\"highlight cpp\"><figcaption data-lang=\"C++\"><span>计算器</span><a href=\"https://xylrainbowcat.github.io/\">参考链接</a></figcaption><table><tr class=\"marked\"><td data-num=\"1\"></td><td data-command=\"tips1\"></td><td><pre><span class=\"token macro property\"><span class=\"token directive-hash\">#</span><span class=\"token directive keyword\">include</span> <span class=\"token string\">&lt;bits/stdc++.h></span></span></pre></td></tr><tr><td data-num=\"2\"></td><td data-command=\"\"></td><td><pre><span class=\"token keyword\">using</span> <span class=\"token keyword\">namespace</span> std<span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"3\"></td><td data-command=\"\"></td><td><pre></pre></td></tr><tr class=\"marked\"><td data-num=\"4\"></td><td data-command=\"\"></td><td><pre><span class=\"token keyword\">int</span> <span class=\"token function\">main</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span> <span class=\"token punctuation\">&#123;</span></pre></td></tr><tr class=\"marked\"><td data-num=\"5\"></td><td data-command=\"tips2\"></td><td><pre>    cout <span class=\"token operator\">&lt;&lt;</span> <span class=\"token number\">1</span> <span class=\"token operator\">&lt;&lt;</span> endl<span class=\"token punctuation\">;</span></pre></td></tr><tr class=\"marked\"><td data-num=\"6\"></td><td data-command=\"tips2\"></td><td><pre>    <span class=\"token keyword\">return</span> <span class=\"token number\">0</span><span class=\"token punctuation\">;</span></pre></td></tr><tr class=\"marked\"><td data-num=\"7\"></td><td data-command=\"\"></td><td><pre><span class=\"token punctuation\">&#125;</span></pre></td></tr></table></figure>",
             "tags": [
                 "计软实习项目",
                 "计算器"
