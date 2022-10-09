@@ -14,20 +14,24 @@
         <lastBuildDate>Sun, 09 Oct 2022 18:58:12 +0800</lastBuildDate>
         <item>
             <guid isPermalink="true">https://xylrainbowcat.github.io/Project/Snake-gluttony/Snake%20gluttony/</guid>
-            <title>Snake gluttony</title>
+            <title>贪吃蛇</title>
             <link>https://xylrainbowcat.github.io/Project/Snake-gluttony/Snake%20gluttony/</link>
-            <category term="Snake-gluttony" scheme="https://xylrainbowcat.github.io/categories/Snake-gluttony/" />
+            <category term="计软实习项目" scheme="https://xylrainbowcat.github.io/categories/Project/" />
+            <category term="贪吃蛇" scheme="https://xylrainbowcat.github.io/categories/Project/Snake-gluttony/" />
             <pubDate>Sun, 09 Oct 2022 18:58:12 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;snake-gluttony&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#snake-gluttony&#34;&gt;#&lt;/a&gt; Snake gluttony&lt;/h2&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;贪吃蛇&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#贪吃蛇&#34;&gt;#&lt;/a&gt; 贪吃蛇&lt;/h2&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;span class=&#34;keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;lt;bits/stdc++.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
  ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://xylrainbowcat.github.io/Project/Calculator/Calculator/</guid>
-            <title>Calculator</title>
+            <title>计算器</title>
             <link>https://xylrainbowcat.github.io/Project/Calculator/Calculator/</link>
-            <category term="Calculator" scheme="https://xylrainbowcat.github.io/categories/Calculator/" />
+            <category term="计软实习项目" scheme="https://xylrainbowcat.github.io/categories/Project/" />
+            <category term="计算器" scheme="https://xylrainbowcat.github.io/categories/Project/Calculator/" />
             <pubDate>Sun, 09 Oct 2022 17:24:11 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;calculator&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#calculator&#34;&gt;#&lt;/a&gt; Calculator&lt;/h2&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;计算器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#计算器&#34;&gt;#&lt;/a&gt; 计算器&lt;/h2&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;span class=&#34;keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;lt;bits/stdc++.h&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
  ]]></description>
         </item>
         <item>
