@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "RainbowHouse",
-    "subtitle": "",
+    "title": "RainbowCat's Blog",
+    "subtitle": "= 彩虹屋 =",
     "icon": "https://xylrainbowcat.github.io/images/favicon.ico",
-    "description": "",
+    "description": "项目 & 编程笔记",
     "home_page_url": "https://xylrainbowcat.github.io",
     "items": [
         {

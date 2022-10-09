@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>RainbowHouse</title>
-        <subtitle></subtitle>
+        <title>RainbowCat&#39;s Blog</title>
+        <subtitle>= 彩虹屋 =</subtitle>
         <icon>https://xylrainbowcat.github.io/images/favicon.ico</icon>
         <link>https://xylrainbowcat.github.io</link>
         <author>
           <name>RainbowCat</name>
         </author>
-        <description></description>
+        <description>项目 &amp; 编程笔记</description>
         <language>zh-CN</language>
         <pubDate>Sun, 09 Oct 2022 21:34:13 +0800</pubDate>
         <lastBuildDate>Sun, 09 Oct 2022 21:34:13 +0800</lastBuildDate>
