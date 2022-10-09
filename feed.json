@@ -7,8 +7,8 @@
     "home_page_url": "https://xylrainbowcat.github.io",
     "items": [
         {
-            "id": "https://xylrainbowcat.github.io/Project/Snake-gluttony/Snake%20gluttony/",
-            "url": "https://xylrainbowcat.github.io/Project/Snake-gluttony/Snake%20gluttony/",
+            "id": "https://xylrainbowcat.github.io/Project/Snake-gluttony/Snake-gluttony/",
+            "url": "https://xylrainbowcat.github.io/Project/Snake-gluttony/Snake-gluttony/",
             "title": "贪吃蛇",
             "date_published": "2022-10-09T10:58:12.193Z",
             "content_html": "<h2 id=\"贪吃蛇\"><a class=\"anchor\" href=\"#贪吃蛇\">#</a> 贪吃蛇</h2>\n<figure class=\"highlight cpp\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\"><span class=\"meta\">#<span class=\"keyword\">include</span> <span class=\"string\">&lt;bits/stdc++.h&gt;</span></span></span><br></pre></td></tr></table></figure>\n",
@@ -22,7 +22,7 @@
             "url": "https://xylrainbowcat.github.io/Project/Calculator/Calculator/",
             "title": "计算器",
             "date_published": "2022-10-09T09:24:11.269Z",
-            "content_html": "<h2 id=\"计算器\"><a class=\"anchor\" href=\"#计算器\">#</a> 计算器</h2>\n<figure class=\"highlight cpp\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\"><span class=\"meta\">#<span class=\"keyword\">include</span> <span class=\"string\">&lt;bits/stdc++.h&gt;</span></span></span><br></pre></td></tr></table></figure>\n",
+            "content_html": "<h2 id=\"计算器\"><a class=\"anchor\" href=\"#计算器\">#</a> 计算器</h2>\n<figure class=\"highlight cpp\"><figcaption><span>计算器</span><a href=\"https://xylrainbowcat.github.io/\">参考链接 mark:1,3-4,6 command(\"tips1\":2-3||\"tips2\":6)</a></figcaption><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br><span class=\"line\">6</span><br></pre></td><td class=\"code\"><pre><span class=\"line\"><span class=\"meta\">#<span class=\"keyword\">include</span> <span class=\"string\">&lt;bits/stdc++.h&gt;</span></span></span><br><span class=\"line\"><span class=\"keyword\">using</span> <span class=\"keyword\">namespace</span> std;</span><br><span class=\"line\"><span class=\"function\"><span class=\"type\">int</span> <span class=\"title\">main</span><span class=\"params\">()</span> </span>&#123;</span><br><span class=\"line\">    cout &lt;&lt; <span class=\"number\">1</span> &lt;&lt; endl;</span><br><span class=\"line\">    <span class=\"keyword\">return</span> <span class=\"number\">0</span>;</span><br><span class=\"line\">&#125;</span><br></pre></td></tr></table></figure>\n",
             "tags": [
                 "计软实习项目",
                 "计算器"
