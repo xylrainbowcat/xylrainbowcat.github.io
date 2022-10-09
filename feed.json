@@ -7,6 +7,14 @@
     "home_page_url": "https://xylrainbowcat.github.io",
     "items": [
         {
+            "id": "https://xylrainbowcat.github.io/Project/Snake-gluttony/Snake%20gluttony/",
+            "url": "https://xylrainbowcat.github.io/Project/Snake-gluttony/Snake%20gluttony/",
+            "title": "",
+            "date_published": "2022-10-09T10:58:12.193Z",
+            "content_html": "<p><figure class=\"highlight yaml\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br></pre></td><td class=\"code\"><pre><span class=\"line\"><span class=\"attr\">title:</span> <span class=\"string\">Snake</span> <span class=\"string\">gluttony</span></span><br><span class=\"line\"><span class=\"attr\">categories:</span> <span class=\"string\">Snake-gluttony</span></span><br></pre></td></tr></table></figure></p>\n<h2 id=\"snake-gluttony\"><a class=\"anchor\" href=\"#snake-gluttony\">#</a> Snake gluttony</h2>\n",
+            "tags": []
+        },
+        {
             "id": "https://xylrainbowcat.github.io/Project/Calculator/Calculator/",
             "url": "https://xylrainbowcat.github.io/Project/Calculator/Calculator/",
             "title": "Calculator",
