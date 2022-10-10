@@ -1,7 +1,7 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "RainbowCat's Blog",
-    "subtitle": "= 彩虹屋 =",
+    "title": "レインボーハウス",
+    "subtitle": "RainbowCat 的技术博客",
     "icon": "https://xylrainbowcat.github.io/images/favicon.ico",
     "description": "项目 & 编程笔记",
     "home_page_url": "https://xylrainbowcat.github.io",
