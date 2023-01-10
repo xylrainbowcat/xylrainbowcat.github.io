@@ -165,7 +165,7 @@
     </entry>
     <entry>
         <id>https://xylrainbowcat.github.io/Project/Calculator/Calculator/</id>
-        <title>基于 Qt 实现的简易计算器</title>
+        <title>简单计算器的实现</title>
         <link rel="alternate" href="https://xylrainbowcat.github.io/Project/Calculator/Calculator/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;本项目基于 Qt 实现，具体功能参照了 win 11 系统系带计算器&lt;/p&gt;
