@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>レインボーハウス</title>
+        <title>彩虹の屋</title>
         <subtitle>RainbowCat 的技术博客</subtitle>
         <icon>https://xylrainbowcat.github.io/images/favicon.ico</icon>
         <link>https://xylrainbowcat.github.io</link>
@@ -20,8 +20,11 @@
             <category term="学生信息管理系统" scheme="https://xylrainbowcat.github.io/categories/Project/Student-Information-Management-System/" />
             <category term="计软实习项目" scheme="https://xylrainbowcat.github.io/tags/%E8%AE%A1%E8%BD%AF%E5%AE%9E%E4%B9%A0%E9%A1%B9%E7%9B%AE/" />
             <pubDate>Tue, 10 Jan 2023 12:44:16 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;点击下面的卡片可以到 Github 下载源码&lt;/p&gt;
+            <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;/Project/Student-Information-Management-System/Student-Information-Management-System/&#34;&gt;🚀项目概述&lt;/a&gt; - &lt;a href=&#34;/Project/Student-Information-Management-System/Student-Information-Management-System2/&#34;&gt;&lt;strong&gt;🦄源代码&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;点击下面的卡片可以到 Github 下载源码和打包后的文件&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;Github主页&#34; style=&#34;--block-color:#e9546b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3h5bHJhaW5ib3djYXQ=&#34; data-background-image=&#34;https://gcore.jsdelivr.net/npm/ushio-api-img-moe@5.0.58/img_582_1300x1141_96_null_normal.jpg&#34;&gt;&lt;/span&gt;
           &lt;div class=&#34;info&#34;&gt;
@@ -59,8 +62,11 @@
             <category term="贪吃蛇" scheme="https://xylrainbowcat.github.io/categories/Project/Snake-gluttony/" />
             <category term="计软实习项目" scheme="https://xylrainbowcat.github.io/tags/%E8%AE%A1%E8%BD%AF%E5%AE%9E%E4%B9%A0%E9%A1%B9%E7%9B%AE/" />
             <pubDate>Tue, 10 Jan 2023 12:43:51 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;点击下面的卡片可以到 Github 下载源码&lt;/p&gt;
+            <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;/Project/Snake-gluttony/Snake-gluttony/&#34;&gt;🚀项目概述&lt;/a&gt; - &lt;a href=&#34;/Project/Snake-gluttony/Snake-gluttony2/&#34;&gt;&lt;strong&gt;🦄源代码&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;点击下面的卡片可以到 Github 下载源码和打包后的文件&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;Github主页&#34; style=&#34;--block-color:#e9546b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3h5bHJhaW5ib3djYXQ=&#34; data-background-image=&#34;https://gcore.jsdelivr.net/npm/ushio-api-img-moe@5.0.58/img_582_1300x1141_96_null_normal.jpg&#34;&gt;&lt;/span&gt;
           &lt;div class=&#34;info&#34;&gt;
@@ -87,8 +93,11 @@
             <category term="迷宫" scheme="https://xylrainbowcat.github.io/categories/Project/Maze/" />
             <category term="计软实习项目" scheme="https://xylrainbowcat.github.io/tags/%E8%AE%A1%E8%BD%AF%E5%AE%9E%E4%B9%A0%E9%A1%B9%E7%9B%AE/" />
             <pubDate>Tue, 10 Jan 2023 12:43:30 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;点击下面的卡片可以到 Github 下载源码&lt;/p&gt;
+            <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;/Project/Maze/Maze/&#34;&gt;🚀项目概述&lt;/a&gt; - &lt;a href=&#34;/Project/Maze/Maze2/&#34;&gt;&lt;strong&gt;🦄源代码&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;点击下面的卡片可以到 Github 下载源码和打包后的文件&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;Github主页&#34; style=&#34;--block-color:#e9546b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3h5bHJhaW5ib3djYXQ=&#34; data-background-image=&#34;https://gcore.jsdelivr.net/npm/ushio-api-img-moe@5.0.58/img_582_1300x1141_96_null_normal.jpg&#34;&gt;&lt;/span&gt;
           &lt;div class=&#34;info&#34;&gt;
@@ -122,8 +131,11 @@
             <category term="计算器" scheme="https://xylrainbowcat.github.io/categories/Project/Calculator/" />
             <category term="计软实习项目" scheme="https://xylrainbowcat.github.io/tags/%E8%AE%A1%E8%BD%AF%E5%AE%9E%E4%B9%A0%E9%A1%B9%E7%9B%AE/" />
             <pubDate>Wed, 19 Oct 2022 18:13:03 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;点击下面的卡片可以到 Github 下载源码&lt;/p&gt;
+            <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;/Project/Calculator/Calculator/&#34;&gt;🚀项目概述&lt;/a&gt; - &lt;a href=&#34;/Project/Calculator/Calculator2/&#34;&gt;&lt;strong&gt;🦄源代码&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;点击下面的卡片可以到 Github 下载源码和打包后的文件&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;Github主页&#34; style=&#34;--block-color:#e9546b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3h5bHJhaW5ib3djYXQ=&#34; data-background-image=&#34;https://gcore.jsdelivr.net/npm/ushio-api-img-moe@5.0.58/img_582_1300x1141_96_null_normal.jpg&#34;&gt;&lt;/span&gt;
           &lt;div class=&#34;info&#34;&gt;
@@ -252,12 +264,15 @@
             <category term="学生信息管理系统" scheme="https://xylrainbowcat.github.io/categories/Project/Student-Information-Management-System/" />
             <category term="计软实习项目" scheme="https://xylrainbowcat.github.io/tags/%E8%AE%A1%E8%BD%AF%E5%AE%9E%E4%B9%A0%E9%A1%B9%E7%9B%AE/" />
             <pubDate>Sun, 09 Oct 2022 21:34:13 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
+            <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;/Project/Student-Information-Management-System/Student-Information-Management-System/&#34;&gt;&lt;strong&gt;🚀项目概述&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/Project/Student-Information-Management-System/Student-Information-Management-System2/&#34;&gt;🦄源代码&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;项目名称：学生管理系统（团队项目）&lt;br /&gt;
 开发环境：Qt Creator 9.0.0、MySQL 8.0、VSCode with MySQL&lt;/p&gt;
 &lt;/div&gt;
 &lt;h1 id=&#34;主要功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#主要功能&#34;&gt;#&lt;/a&gt; 主要功能&lt;/h1&gt;
-&lt;div class=&#34;tab&#34; data-id=&#34;id1&#34; data-title=&#34;&#34;&gt;
+&lt;div class=&#34;tab&#34; data-id=&#34;id1&#34; data-title=&#34;主要功能&#34;&gt;
 &lt;ul class=&#34;task-list&#34;&gt;
 &lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_0&#34; checked=&#34;true&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_0&#34;&gt; 建立学生信息数据库，实现学生端的登陆，并保存学生学号、班级、登陆密码等信息。&lt;/label&gt;&lt;/li&gt;
 &lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_1&#34; checked=&#34;true&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_1&#34;&gt; 建立课程信息及选课信息数据库，保存课程信息及学生选课情况。&lt;/label&gt;&lt;/li&gt;
@@ -267,12 +282,303 @@
 &lt;/div&gt;
 &lt;h1 id=&#34;项目设计&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#项目设计&#34;&gt;#&lt;/a&gt; 项目设计&lt;/h1&gt;
 &lt;h2 id=&#34;总体框架&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总体框架&#34;&gt;#&lt;/a&gt; 总体框架&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s3.bmp.ovh/imgs/2023/01/30/c9c3a7e921fd5791.png&#34; alt=&#34;&#34; title=&#34;项目总体框架&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s3.bmp.ovh/imgs/2023/01/30/4b574409e3f79f4b.png&#34; alt=&#34;&#34; title=&#34;项目总体框架&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;团队分工&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#团队分工&#34;&gt;#&lt;/a&gt; 团队分工&lt;/h2&gt;
-&lt;p&gt;本项目是一个团队项目，由我，黄天权，吴韦烨和贾常鸣共同完成。&lt;br /&gt;
-其中我完成了 80% 的代码；吴韦烨完成了 GUI 界面的设计及剩余部分代码；黄天权完成了测试集及报告；贾常鸣完成了 PPT 及答辩。&lt;/p&gt;
+&lt;p&gt;本项目是一个团队项目，由徐永乐，黄天权，吴韦烨，贾常鸣共同完成。&lt;/p&gt;
+&lt;p&gt;其中徐永乐完成了需求分析、代码（50%）和功能测试占项目的 30%；&lt;br /&gt;
+吴韦烨完成了代码（50%）和 GUI 界面占项目的 30%；&lt;br /&gt;
+黄天权完成了数据库的建立、部分数据集占项目的 20%；&lt;br /&gt;
+贾常鸣完成了 PPT 和数据集占项目的 20%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;代码部分详细分工：&lt;/strong&gt;&lt;br /&gt;
+徐永乐：系统登录界面、学生端成绩查询、教师端成绩录入&lt;br /&gt;
+吴韦烨：学生端选课中心、管理员端师生管理、管理员端课程管理&lt;/p&gt;
 &lt;h2 id=&#34;数据库设计&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据库设计&#34;&gt;#&lt;/a&gt; 数据库设计&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;学生表&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;编号&lt;/th&gt;
+&lt;th&gt;字段名称&lt;/th&gt;
+&lt;th&gt;字段含义&lt;/th&gt;
+&lt;th&gt;字段类型&lt;/th&gt;
+&lt;th&gt;是否主键&lt;/th&gt;
+&lt;th&gt;默认值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;sno&lt;/td&gt;
+&lt;td&gt;学生学号&lt;/td&gt;
+&lt;td&gt;Varchar(12)&lt;/td&gt;
+&lt;td&gt;√&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;sname&lt;/td&gt;
+&lt;td&gt;学生姓名&lt;/td&gt;
+&lt;td&gt;Text&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;sex&lt;/td&gt;
+&lt;td&gt;性别&lt;/td&gt;
+&lt;td&gt;Varchar(2)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;grade&lt;/td&gt;
+&lt;td&gt;年级&lt;/td&gt;
+&lt;td&gt;Varchar(6)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;major&lt;/td&gt;
+&lt;td&gt;专业&lt;/td&gt;
+&lt;td&gt;Text&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;classno&lt;/td&gt;
+&lt;td&gt;班级号&lt;/td&gt;
+&lt;td&gt;Varchar(12)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;password&lt;/td&gt;
+&lt;td&gt;密码&lt;/td&gt;
+&lt;td&gt;Text&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;123456&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;CONSTRAINT&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;CHECK (Sex in (&#39; 男 &#39;, &#39; 女 &#39;))&lt;br /&gt;
+ CHECK (grade in (&#39; 大一上 &#39;, &#39; 大一下 &#39;, &#39; 大二上 &#39;, &#39; 大二下 &#39;, &#39; 大三上 &#39;, &#39; 大三下 &#39;, &#39; 大四上 &#39;, &#39; 大四下 &#39;))&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;p&gt;&lt;strong&gt;教师表&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;编号&lt;/th&gt;
+&lt;th&gt;字段名称&lt;/th&gt;
+&lt;th&gt;字段含义&lt;/th&gt;
+&lt;th&gt;字段类型&lt;/th&gt;
+&lt;th&gt;是否主键&lt;/th&gt;
+&lt;th&gt;默认值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;tno&lt;/td&gt;
+&lt;td&gt;教师编号&lt;/td&gt;
+&lt;td&gt;Varchar(12)&lt;/td&gt;
+&lt;td&gt;√&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;tname&lt;/td&gt;
+&lt;td&gt;教师姓名&lt;/td&gt;
+&lt;td&gt;Text&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;password&lt;/td&gt;
+&lt;td&gt;密码&lt;/td&gt;
+&lt;td&gt;Text&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;123456&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;admin&lt;/td&gt;
+&lt;td&gt;是否管理员&lt;/td&gt;
+&lt;td&gt;Boolean&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;false&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;班级表&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;编号&lt;/th&gt;
+&lt;th&gt;字段名称&lt;/th&gt;
+&lt;th&gt;字段含义&lt;/th&gt;
+&lt;th&gt;字段类型&lt;/th&gt;
+&lt;th&gt;是否主键&lt;/th&gt;
+&lt;th&gt;默认值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;classno&lt;/td&gt;
+&lt;td&gt;班级号&lt;/td&gt;
+&lt;td&gt;Varchar(12)&lt;/td&gt;
+&lt;td&gt;√&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;tno&lt;/td&gt;
+&lt;td&gt;教师编号&lt;/td&gt;
+&lt;td&gt;Varchar(12)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;课程表&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;编号&lt;/th&gt;
+&lt;th&gt;字段名称&lt;/th&gt;
+&lt;th&gt;字段含义&lt;/th&gt;
+&lt;th&gt;字段类型&lt;/th&gt;
+&lt;th&gt;是否主键&lt;/th&gt;
+&lt;th&gt;默认值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;cno&lt;/td&gt;
+&lt;td&gt;课程号&lt;/td&gt;
+&lt;td&gt;Varchar(12)&lt;/td&gt;
+&lt;td&gt;√&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;cname&lt;/td&gt;
+&lt;td&gt;课程名&lt;/td&gt;
+&lt;td&gt;Text&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;tno&lt;/td&gt;
+&lt;td&gt;任课教师号&lt;/td&gt;
+&lt;td&gt;Varchar(2)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;grade&lt;/td&gt;
+&lt;td&gt;开课年级&lt;/td&gt;
+&lt;td&gt;Varchar(6)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;period&lt;/td&gt;
+&lt;td&gt;学时&lt;/td&gt;
+&lt;td&gt;Int&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;credit&lt;/td&gt;
+&lt;td&gt;学分&lt;/td&gt;
+&lt;td&gt;Int&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;assess&lt;/td&gt;
+&lt;td&gt;考核方式&lt;/td&gt;
+&lt;td&gt;Varchar(2)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;property&lt;/td&gt;
+&lt;td&gt;课程属性&lt;/td&gt;
+&lt;td&gt;Varchar(2)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;CONSTRAINT&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;CHECK (grade in (&#39; 大一上 &#39;, &#39; 大一下 &#39;, &#39; 大二上 &#39;, &#39; 大二下 &#39;, &#39; 大三上 &#39;, &#39; 大三下 &#39;, &#39; 大四上 &#39;, &#39; 大四下 &#39;))&lt;br /&gt;
+ CHECK (assess in (&#39; 考试 &#39;, &#39; 考查 &#39;))&lt;br /&gt;
+ CHECK (property in (&#39; 选修 &#39;, &#39; 必修 &#39;))&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;p&gt;&lt;strong&gt;选课表&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;编号&lt;/th&gt;
+&lt;th&gt;字段名称&lt;/th&gt;
+&lt;th&gt;字段含义&lt;/th&gt;
+&lt;th&gt;字段类型&lt;/th&gt;
+&lt;th&gt;是否主键&lt;/th&gt;
+&lt;th&gt;默认值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;sno&lt;/td&gt;
+&lt;td&gt;学生学号&lt;/td&gt;
+&lt;td&gt;Varchar(12)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;cno&lt;/td&gt;
+&lt;td&gt;课程号&lt;/td&gt;
+&lt;td&gt;Varchar(12)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;score&lt;/td&gt;
+&lt;td&gt;成绩&lt;/td&gt;
+&lt;td&gt;Int&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;CONSTRAINT&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;CHECK(score &amp;gt;= 0 AND score &amp;lt;= 100)&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;p&gt;&lt;strong&gt;E-R 图&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s3.bmp.ovh/imgs/2023/01/30/bee67da68cb2ebb6.png&#34; alt=&#34;&#34; title=&#34;E-R图&#34; /&gt;&lt;/p&gt;
 &lt;h1 id=&#34;界面展示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#界面展示&#34;&gt;#&lt;/a&gt; 界面展示&lt;/h1&gt;
+&lt;p class=&#34;gallery&#34;&gt;&lt;img data-src=&#34;https://s3.bmp.ovh/imgs/2023/01/30/d9c9228fb613169e.png&#34; alt=&#34;&#34; title=&#34;登录界面&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s3.bmp.ovh/imgs/2023/01/30/45abc99989906724.png&#34; alt=&#34;&#34; title=&#34;学生端（选课中心）&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s3.bmp.ovh/imgs/2023/01/30/87738409dc95a2ce.png&#34; alt=&#34;&#34; title=&#34;教师端（成绩录入）&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s3.bmp.ovh/imgs/2023/01/30/64e78c77d789e584.png&#34; alt=&#34;&#34; title=&#34;管理员端（师生管理）&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -283,7 +589,10 @@
             <category term="迷宫" scheme="https://xylrainbowcat.github.io/categories/Project/Maze/" />
             <category term="计软实习项目" scheme="https://xylrainbowcat.github.io/tags/%E8%AE%A1%E8%BD%AF%E5%AE%9E%E4%B9%A0%E9%A1%B9%E7%9B%AE/" />
             <pubDate>Sun, 09 Oct 2022 21:33:59 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
+            <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;/Project/Maze/Maze/&#34;&gt;&lt;strong&gt;🚀项目概述&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/Project/Maze/Maze2/&#34;&gt;🦄源代码&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;项目名称：元气骑士之逃出地牢&lt;br /&gt;
 开发环境：Qt Creator 9.0.0&lt;br /&gt;
  参照项目：元气骑士&lt;/p&gt;
@@ -365,12 +674,15 @@
             <category term="贪吃蛇" scheme="https://xylrainbowcat.github.io/categories/Project/Snake-gluttony/" />
             <category term="计软实习项目" scheme="https://xylrainbowcat.github.io/tags/%E8%AE%A1%E8%BD%AF%E5%AE%9E%E4%B9%A0%E9%A1%B9%E7%9B%AE/" />
             <pubDate>Sun, 09 Oct 2022 18:58:12 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
+            <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;/Project/Snake-gluttony/Snake-gluttony/&#34;&gt;&lt;strong&gt;🚀项目概述&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/Project/Snake-gluttony/Snake-gluttony2/&#34;&gt;🦄源代码&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;项目名称：贪吃鸡&lt;br /&gt;
 开发环境：Qt Creator 9.0.0&lt;/p&gt;
 &lt;/div&gt;
 &lt;h1 id=&#34;主要功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#主要功能&#34;&gt;#&lt;/a&gt; 主要功能&lt;/h1&gt;
-&lt;div class=&#34;tab&#34; data-id=&#34;id1&#34; data-title=&#34;&#34;&gt;
+&lt;div class=&#34;tab&#34; data-id=&#34;id1&#34; data-title=&#34;主要功能&#34;&gt;
 &lt;ul class=&#34;task-list&#34;&gt;
 &lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_0&#34; checked=&#34;true&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_0&#34;&gt; 选择角色开始游戏，玩家可以通过键盘事件控制 “蛇” 的移动，“蛇” 在吃到食物后变长变快，“蛇” 碰到边界或身体时游戏结束。&lt;/label&gt;&lt;/li&gt;
 &lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_1&#34; checked=&#34;true&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_1&#34;&gt; 有基本的交互按钮（开始、暂停、退出等），有背景音乐。&lt;/label&gt;&lt;/li&gt;
@@ -407,7 +719,10 @@
             <category term="计算器" scheme="https://xylrainbowcat.github.io/categories/Project/Calculator/" />
             <category term="计软实习项目" scheme="https://xylrainbowcat.github.io/tags/%E8%AE%A1%E8%BD%AF%E5%AE%9E%E4%B9%A0%E9%A1%B9%E7%9B%AE/" />
             <pubDate>Sun, 09 Oct 2022 17:24:11 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
+            <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;/Project/Calculator/Calculator/&#34;&gt;&lt;strong&gt;🚀项目概述&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/Project/Calculator/Calculator2/&#34;&gt;🦄源代码&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;项目名称：巨硬计算器&lt;br /&gt;
 开发环境：Qt Creator 9.0.0&lt;br /&gt;
  参照项目：微软计算器&lt;/p&gt;
